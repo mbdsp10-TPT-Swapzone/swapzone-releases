@@ -3,6 +3,8 @@
 front-office : https://ng-swapzone.onrender.com
 back-office : https://ng-swapzone-admin.onrender.com
 
+Admin credentials : admin@gmail.com , password: admin
+
 Mobile app: swapzone.apk
 Winforms app : swapzone.exe
 
